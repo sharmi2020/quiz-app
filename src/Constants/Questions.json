@@ -1,0 +1,47 @@
+[
+    {
+        "question":"Where are you from??",
+         "answerOptions":[
+            {"text":"chennai","isCorrect":true},
+            {"text":"Mumbai","isCorrect":false},
+            {"text":"Delhi","isCorrect":false},
+            {"text":"Bangalore","isCorrect":false}
+         ]
+        },
+        {
+            "question":"Are you Happy??",
+             "answerOptions":[
+                {"text":"Happy","isCorrect":true},
+                {"text":"sad","isCorrect":false},
+                {"text":"worried","isCorrect":false},
+                {"text":"Annoyed","isCorrect":false}
+             ]
+            },
+            {
+                "question":"Favourite programming language ??",
+                 "answerOptions":[
+                    {"text":"java","isCorrect":true},
+                    {"text":"C","isCorrect":false},
+                    {"text":"C++","isCorrect":false},
+                    {"text":"Javascript","isCorrect":false}
+                 ]
+                },
+                {
+                    "question":"popular social media platform??",
+                     "answerOptions":[
+                        {"text":"Whatsapp","isCorrect":true},
+                        {"text":"Instagram","isCorrect":false},
+                        {"text":"Facebook","isCorrect":false},
+                        {"text":"Twitter","isCorrect":false}
+                     ]
+                    },
+                    {
+                        "question":"currency of US??",
+                         "answerOptions":[
+                            {"text":"Dollar","isCorrect":true},
+                            {"text":"Euro","isCorrect":false},
+                            {"text":"Yuan","isCorrect":false},
+                            {"text":"Yen","isCorrect":false}
+                         ]
+                        }
+]
